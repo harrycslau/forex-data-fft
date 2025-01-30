@@ -1,3 +1,4 @@
 .env
 .DS_Store
 \forecast_plots
+\maptrade
